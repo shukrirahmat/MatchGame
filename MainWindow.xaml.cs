@@ -19,6 +19,7 @@ namespace MatchGame
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    /// Finished
     public partial class MainWindow : Window
     {
         DispatcherTimer timer = new DispatcherTimer();
